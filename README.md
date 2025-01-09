@@ -15,4 +15,4 @@ To display Pokémon information (name, type, image) dynamically.
 - Dynamic cards are created and displayed.  
 - A search function allows users to find specific Pokémon.
 
-- https://www.loom.com/share/d3efb39dc34a4908b0985526977af039
+https://www.loom.com/share/d3efb39dc34a4908b0985526977af039?sid=1670eaad-0d92-433e-a2ce-0e16633f0f49
