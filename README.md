@@ -15,4 +15,7 @@ To display Pokémon information (name, type, image) dynamically.
 - Dynamic cards are created and displayed.  
 - A search function allows users to find specific Pokémon.
 
-![Eneszkan-GoogleChrome-9January20251-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/a501bb1f-47a7-4e65-8b78-b5a494b4a5eb)
+
+# Preview
+
+![Eneszkan-GoogleChrome2025-07-2314-13-42-ezgif com-video-to-gif-converter (1)](https://github.com/user-attachments/assets/93f02125-138f-459a-8d88-0fa5fb85d3d7)
